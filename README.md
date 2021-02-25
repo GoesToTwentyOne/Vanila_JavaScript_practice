@@ -1,1 +1,1 @@
-# Vanila_Script_practice
+# Vanila_JavaScript_practice
